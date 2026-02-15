@@ -515,6 +515,7 @@ footer {
     .trust-item span{
         width: 100%;
         font-size: 1rem;
+        line-height: 80px;
     }
 
     .menu-bar {
